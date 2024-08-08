@@ -1,2 +1,2 @@
 # machine-learning
-some personal projects about machine learning
+Some machine learning personal projects using Python.
